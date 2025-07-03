@@ -1,0 +1,5 @@
+[2025-07-03 23:15:07]  Category: Login or register | Products Found: 0
+[2025-07-03 23:15:09]  Category: SPECIALS | Products Found: 16
+[2025-07-03 23:15:09]  Verified category 'SPECIALS' with sufficient products.
+[2025-07-03 23:15:09]  Selected product by index 0: ABSOLUE EYE PRECIOUS CELLS
+[2025-07-03 23:15:12]  Product added to cart successfully

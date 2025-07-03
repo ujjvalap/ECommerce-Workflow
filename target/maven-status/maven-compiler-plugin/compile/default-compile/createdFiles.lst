@@ -1,0 +1,10 @@
+pages\BasePage.class
+utils\ReportUtil.class
+pages\ProductPage.class
+pages\CartPage.class
+pages\CategoryPage.class
+pages\HomePage.class
+pages\CheckoutPage.class
+pages\RegistrationPage.class
+utils\TestDataReader.class
+utils\ScreenshotUtil.class
