@@ -84,7 +84,7 @@ csv
 Copy
 Edit
 firstName,lastName,email,password
-Ujjwal,Pateliya,ujjwal@test.com,Test@123
+Ujjval,Pateliya,ujjval@test.com,Test@123
 ▶️ Step 4: Run the Tests
 In terminal or CMD:
 
@@ -119,8 +119,6 @@ Steps passed/failed
 
 Timestamp
 
-Timestamp
-
 💡 Notes
 ⚠️ Make sure Chrome browser is installed
 
@@ -129,10 +127,10 @@ Timestamp
 🚫 If elements are not found, check the selectors or website availability
 
 👤 Author
-Ujjwal Pateliya
+Ujjval Pateliya
 Computer Science Student
 Selenium Automation Enthusiast
-Email: your-email@example.com
+Email: ujjvalpateliya@gmail.com
 
 📌 Final Tip
 This project is a great base for automating real-world e-commerce workflows. You can easily expand it by adding:
